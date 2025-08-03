@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nafees2006
+- 👋 Hi, I’m @NafeesSayyed
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML projects, Data Science, and open-source contributions
